@@ -1,0 +1,93 @@
+# Consulte http://help.github.com/ignore-files/ para obtener más información sobre cómo ignorar archivos.
+
+firebase-comnfig.js
+
+# salida compilada
+/dist
+/tmp
+/out-tsc
+
+# datos de tiempo de ejecución
+pids
+*.pid
+*.semilla
+*.pid.lock
+
+# Directorio para bibliotecas instrumentadas generadas por jscoverage/JSCover
+lib-cov
+
+# Directorio de cobertura utilizado por herramientas como estambul
+cobertura
+
+# cobertura de prueba de Nueva York
+.nyc_salida
+
+# Almacenamiento intermedio de Grunt (http://gruntjs.com/creating-plugins#storing-task-files)
+.gruñido
+
+# Directorio de dependencias de Bower (https://bower.io/)
+Bower_components
+
+# configuración de nodo-waf
+.lock-wscript
+
+# IDE y editores
+.ocurrencia
+.proyecto
+.classpath
+.c9/
+*.lanzar
+.ajustes/
+*.sublime-espacio de trabajo
+
+# IDE - Código VSC
+.vscode/*
+!.vscode/configuración.json
+!.vscode/tareas.json
+!.vscode/lanzamiento.json
+!.vscode/extensiones.json
+
+# varios
+.sass-cache
+conectar.bloquear
+mecanografías
+
+# Registros
+registros
+*.Iniciar sesión
+npm-debug.log*
+hilo-debug.log*
+hilo-error.log*
+
+
+# directorios de dependencia
+node_modules/
+jspm_paquetes/
+
+# Directorio de caché npm opcional
+.npm
+
+# Caché eslint opcional
+.eslintcache
+
+# Historial de REPL opcional
+.node_repl_history
+
+# Salida de 'paquete npm'
+*.tgz
+
+# Archivo de integridad del hilo
+.integridad del hilo
+
+# archivo de variables de entorno dotenv
+.env
+
+# salida de compilación next.js
+.Siguiente
+
+#Lerna
+lerna-debug.log
+
+# Archivos del sistema
+.DS_Tienda
+Pulgares.db
